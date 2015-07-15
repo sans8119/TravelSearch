@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CountryCodes" >
+        <item> "AF" ,"Afghanistan" </item>
+        <item> "AL" ,"Albania" </item>
+        <item> "DZ" ,"Algeria" </item>
+        <item> "AD" ,"Andorra" </item>
+        <item> "AO" ,"Angola" </item>
+        <item> "AQ" ,"Antarctica" </item>
+        <item> "AR" ,"Argentina" </item>
+        <item> "AM" ,"Armenia" </item>
+        <item> "AW" ,"Aruba" </item>
+        <item> "AU" ,"Australia" </item>
+        <item> "AT" ,"Austria" </item>
+        <item> "AZ" ,"Azerbaijan" </item>
+        <item> "BH" ,"Bahrain" </item>
+        <item> "BD" ,"Bangladesh" </item>
+        <item> "BY" ,"Belarus" </item>
+        <item> "BE" ,"Belgium" </item>
+        <item> "BZ" ,"Belize" </item>
+        <item> "BJ" ,"Benin" </item>
+        <item> "BT" ,"Bhutan" </item>
+        <item> "BO" ,"Bolivia, Plurinational State Of" </item>
+        <item> "BA" ,"Bosnia And Herzegovina" </item>
+        <item> "BW" ,"Botswana" </item>
+        <item> "BR" ,"Brazil" </item>
+        <item> "BN" ,"Brunei Darussalam" </item>
+        <item> "BG" ,"Bulgaria" </item>
+        <item> "BF" ,"Burkina Faso" </item>
+        <item> "MM"  ,"Myanmar" </item>
+        <item> "BI" ,"Burundi" </item>
+        <item> "KH" ,"Cambodia" </item>
+        <item> "CM","Cameroon" </item>
+        <item> "CA" ,"Canada" </item>
+        <item> "CV" ,"Cape Verde" </item>
+        <item> "CF" ,"Central African Republic" </item>
+        <item> "TD","Chad" </item>
+        <item> "CL","Chile" </item>
+        <item> "CN","China" </item>
+        <item> "CX","Christmas Island" </item>
+        <item> "CC" ,"Cocos (keeling) Islands" </item>
+        <item> "CO","Colombia" </item>
+        <item> "KM","Comoros" </item>
+        <item> "CG","Congo" </item>
+        <item> "CD" ,"Congo, The Democratic Republic Of The" </item>
+        <item> "CK","Cook Islands" </item>
+        <item> "CR","Costa Rica" </item>
+        <item> "HR","Croatia" </item>
+        <item> "CU","Cuba" </item>
+        <item> "CY","Cyprus" </item>
+        <item> "CZ","Czech Republic" </item>
+        <item> "DK","Denmark" </item>
+        <item> "DJ","Djibouti" </item>
+        <item> "TL","Timor-leste" </item>
+        <item> "EC","Ecuador" </item>
+        <item> "EG","Egypt" </item>
+        <item> "SV","El Salvador" </item>
+        <item> "GQ","Equatorial Guinea" </item>
+        <item> "ER","Eritrea" </item>
+        <item> "EE","Estonia" </item>
+        <item> "ET","Ethiopia" </item>
+        <item> "FK","Falkland Islands (malvinas)" </item>
+        <item> "FO","Faroe Islands" </item>
+        <item> "FJ","Fiji" </item>
+        <item> "FI","Finland" </item>
+        <item> "FR","France" </item>
+        <item> "PF","French Polynesia" </item>
+        <item> "GA","Gabon" </item>
+        <item> "GM","Gambia" </item>
+        <item> "GE","Georgia" </item>
+        <item> "DE","Germany" </item>
+        <item> "GH","Ghana" </item>
+        <item> "GI","Gibraltar" </item>
+        <item> "GR","Greece" </item>
+        <item> "GL","Greenland" </item>
+        <item> "GT","Guatemala" </item>
+        <item> "GN","Guinea" </item>
+        <item> "GW","Guinea-bissau" </item>
+        <item> "GY","Guyana" </item>
+        <item> "HT","Haiti" </item>
+        <item> "HN","Honduras" </item>
+        <item> "HK","Hong Kong" </item>
+        <item> "HU","Hungary" </item>
+        <item> "IN","India" </item>
+        <item> "ID","Indonesia" </item>
+        <item> "IR","Iran, Islamic Republic Of" </item>
+        <item> "IQ","Iraq" </item>
+        <item> "IE","Ireland" </item>
+        <item> "IM","Isle Of Man" </item>
+        <item> "IL","Israel" </item>
+        <item> "it","Italy" </item>
+        <item> "CI","Côte D&apos;ivoire" </item>
+        <item> "JP","Japan" </item>
+        <item> "JO","Jordan" </item>
+        <item> "KZ","Kazakhstan" </item>
+        <item> "KE","Kenya" </item>
+        <item> "KI","Kiribati" </item>
+        <item> "KW","Kuwait" </item>
+        <item> "KG","Kyrgyzstan" </item>
+        <item> "LA","Lao People&apos;s Democratic Republic" </item>
+        <item> "LV","Latvia" </item>
+        <item> "LB","Lebanon" </item>
+        <item> "LS","Lesotho" </item>
+        <item> "LR","Liberia" </item>
+        <item> "LY","Libya" </item>
+        <item> "LI","Liechtenstein" </item>
+        <item> "LT","Lithuania" </item>
+        <item> "LU","Luxembourg" </item>
+        <item> "MO","Macao" </item>
+        <item> "MK","Macedonia, The Former Yugoslav Republic Of" </item>
+        <item> "MG","Madagascar" </item>
+        <item> "MW","Malawi" </item>
+        <item> "MY","Malaysia" </item>
+        <item> "MV","Maldives" </item>
+        <item> "ML","Mali" </item>
+        <item> "MT","Malta" </item>
+        <item> "MH","Marshall Islands" </item>
+        <item> "MR","Mauritania" </item>
+        <item> "MU","Mauritius" </item>
+        <item> "YT","Mayotte" </item>
+        <item> "MX","Mexico" </item>
+        <item> "FM","Micronesia, Federated States Of" </item>
+        <item> "MD","Moldova, Republic Of" </item>
+        <item> "MC","Monaco" </item>
+        <item> "MN","Mongolia" </item>
+        <item> "ME","Montenegro" </item>
+        <item> "MA","Morocco" </item>
+        <item> "MZ","Mozambique" </item>
+        <item> "NA","Namibia" </item>
+        <item> "NR","Nauru" </item>
+        <item> "NP","Nepal" </item>
+        <item> "NL","Netherlands" </item>
+        <item> "NC","New Caledonia" </item>
+        <item> "NZ","New Zealand" </item>
+        <item> "NI","Nicaragua" </item>
+        <item> "NE","Niger" </item>
+        <item> "NG","Nigeria" </item>
+        <item> "NU","Niue" </item>
+        <item> "KP","Korea, Democratic People&apos;s Republic Of" </item>
+        <item> "NO","Norway" </item>
+        <item> "OM","Oman" </item>
+        <item> "PK","Pakistan" </item>
+        <item> "PW","Palau" </item>
+        <item> "PA","Panama" </item>
+        <item> "PG","Papua New Guinea" </item>
+        <item> "PY" ,"Paraguay" </item>
+        <item> "PE","Peru" </item>
+        <item> "PH","Philippines" </item>
+        <item> "PN","Pitcairn" </item>
+        <item> "PL","Poland" </item>
+        <item> "PT","Portugal" </item>
+        <item> "PR","Puerto Rico" </item>
+        <item> "QA","Qatar" </item>
+        <item> "RO","Romania" </item>
+        <item> "RU","Russian Federation" </item>
+        <item> "RW","Rwanda" </item>
+        <item> "BL","Saint Barthélemy" </item>
+        <item> "WS","Samoa" </item>
+        <item> "SM","San Marino" </item>
+        <item> "ST","Sao Tome And Principe" </item>
+        <item> "SA","Saudi Arabia" </item>
+        <item> "SN","Senegal" </item>
+        <item> "RS","Serbia" </item>
+        <item> "SC","Seychelles" </item>
+        <item> "SL","Sierra Leone" </item>
+        <item> "SG","Singapore" </item>
+        <item> "SK","Slovakia" </item>
+        <item> "SI","Slovenia" </item>
+        <item> "SB","Solomon Islands" </item>
+        <item> "SO" ,"Somalia" </item>
+        <item> "ZA","South Africa" </item>
+        <item> "KR","Korea, Republic Of" </item>
+        <item> "ES" ,"Spain" </item>
+        <item> "LK" ,"Sri Lanka" </item>
+        <item> "SH" ,"Saint Helena, Ascension And Tristan Da Cunha" </item>
+        <item> "PM","Saint Pierre And Miquelon" </item>
+        <item> "SD" ,"Sudan" </item>
+        <item> "SR" ,"Suriname" </item>
+        <item> "SZ","Swaziland" </item>
+        <item> "SE" ,"Sweden" </item>
+        <item> "CH","Switzerland" </item>
+        <item> "SY","Syrian Arab Republic" </item>
+        <item> "TW","Taiwan, Province Of China" </item>
+        <item> "TJ","Tajikistan" </item>
+        <item> "TZ" ,"Tanzania, United Republic Of" </item>
+        <item> "TH" ,"Thailand" </item>
+        <item> "TG","Togo" </item>
+        <item> "TK","Tokelau" </item>
+        <item> "TO","Tonga" </item>
+        <item> "TN" ,"Tunisia" </item>
+        <item> "TR" ,"Turkey" </item>
+        <item> "TM", "Turkmenistan" </item>
+        <item> "TV" ,"Tuvalu" </item>
+        <item> "AE","United Arab Emirates" </item>
+        <item> "UG" ,"Uganda" </item>
+        <item> "GB" ,"United Kingdom" </item>
+        <item> "UA" ,"Ukraine" </item>
+        <item> "UY","Uruguay" </item>
+        <item> "US","United States" </item>
+        <item> "UZ" ,"Uzbekistan" </item>
+        <item> "VU" ,"Vanuatu" </item>
+        <item> "VA" ,"Holy See (vatican City State)" </item>
+        <item> "VE" ,"Venezuela, Bolivarian Republic Of" </item>
+        <item> "VN" ,"Viet Nam" </item>
+        <item> "WF","Wallis And Futuna" </item>
+        <item> "YE" ,"Yemen" </item>
+        <item> "ZM","Zambia" </item>
+        <item> "ZW","Zimbabwe" </item>
+    </string-array>
+
+</resources>

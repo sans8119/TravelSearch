@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/classes-881e651dfe2b130d4865131cdc04af999f238bef.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/javax.inject-1-881061ccaaa05e450c4cca5102d6ff000703df8a.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/classes-daba754ebe035d405d748b6c7ca440da5ea8c5da.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.1/1261dfca5bae89a866a2855552da26feab7f8fad/dagger-2.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1261dfca5bae89a866a2855552da26feab7f8fad">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/dagger-2.0.1-99979b513e18307e87399b5ae3266a95e988713d.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-36354e499302397198eeab762967472aa1014c43.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/classes-7e4b1893243ae28c540c0ee3552396f332d62c41.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/classes-a57cd0676b0fd15e71d93594b21304761eff665e.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/gson-2.2.4-a7fbedeec31524431ea0e8f376f4720aeb995560.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-b05eae6327e446f558794dae81217c43127b0d54.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-97ced7078f9b7fac9150468ce8fbd424bb7b1a07.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.annotation/10.0-b28/30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba/javax.annotation-10.0-b28.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/javax.annotation-10.0-b28-0ae62b181415a08eca96218426992a0889ae41e1.jar" />
+    </item>
+    <item
+        jar="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/sandeep/WorkSpace/Mobile/UISearch/app/build/intermediates/pre-dexed/debug/classes-f83cb745ab91a4d2e20166736e94ab9a31ec47ca.jar" />
+    </item>
+
+</items>
